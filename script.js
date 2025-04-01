@@ -104,4 +104,3 @@ console.log(x);
 let myString = "Hello";
 // Removed the invalid property assignment on a string
 console.log(myString);
-// Error 21
